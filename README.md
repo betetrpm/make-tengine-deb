@@ -6,8 +6,8 @@
     ```tar zxf tengine-2.0.1.tar.gz```
 
  2. 获取打包的配置文件       
-   cd tengine-2.0.1    
-   ```git clone https://github.com/betetrpm/make-tengine-deb.git   debian    ```
+   ``cd tengine-2.0.1    
+   git clone https://github.com/betetrpm/make-tengine-deb.git   debian    ```
 
  3. 打包编译    
    ``` export DEB_BUILD_OPTIONS=nocheck; dpkg-buildpackage -rfakeroot -uc -b    ``` 
