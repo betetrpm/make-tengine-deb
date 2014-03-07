@@ -1,6 +1,6 @@
 使用说明
 ===
-## 获取tengine代码
+## 打包   
  1. 下载最近的代码包    
 > wget http://tengine.taobao.org/download/tengine-2.0.1.tar.gz   
 > tar zxf tengine-2.0.1.tar.gz   
