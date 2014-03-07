@@ -1,8 +1,8 @@
 Source: tengine
 Section: httpd
 Priority: optional
-Maintainer: min.peng <min.peng@alibaba-inc.com>
-Uploaders: min.peng <min.peng@alibaba-inc.com>
+Maintainer: betterpm <betterpm@gmail.com>
+Uploaders: betterpm <betterpm@gmail.com>
 Build-Depends:  debhelper (>= 7.0.50~), libssl-dev (>= 0.9.7), libpcre3-dev, zlib1g-dev
 Standards-Version: 3.9.2
 Homepage: http://tengine.taobao.org/
